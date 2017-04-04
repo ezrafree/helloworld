@@ -1,11 +1,14 @@
 #!/usr/bin/env swift
 
-// Generate a FizzBuzz Test output in Swift
+/*
+	Generate a FizzBuzz Test output in Swift
 
-// To compile:
-// $ xcrun swiftc fizzbuzz.swift -o bin/fizzbuzz
-// To run:
-// $ ./bin/fizzbuzz
+	To compile:
+	$ xcrun swiftc fizzbuzz.swift -o bin/fizzbuzz
+
+	To run:
+	$ ./bin/fizzbuzz
+ */
 
 for i in 1...100 {
 	if i % 15 == 0 {

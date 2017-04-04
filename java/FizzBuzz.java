@@ -1,8 +1,11 @@
 /**
  * FizzBuzz
  *
- * Compile with: javac FizzBuzz.java
- * Run with: java FizzBuzz
+ * Compile with:
+ * $ javac -d bin FizzBuzz.java
+ * 
+ * Run with:
+ * $ cd bin; java FizzBuzz
  */
 
 public class FizzBuzz {

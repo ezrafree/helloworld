@@ -4,10 +4,12 @@ A collection of various "Hello World" and "Fizz Buzz" examples.
 
 - C
 - Java
+- Swift
+- Haskell
 
-## Java Install Instructions
+## Mac OS X Install Instructions
 
-### Mac OS X
+### Java
 
     $ brew update
     $ brew install jenv
@@ -15,3 +17,8 @@ A collection of various "Hello World" and "Fizz Buzz" examples.
     $ echo 'eval "$(jenv init -)"' >> ~/.zshrc
     $ brew cask install java
     $ java -version
+
+### Haskell
+
+    $ brew cask install haskell-platform
+    $ brew install ghc cabal-install

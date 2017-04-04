@@ -1,8 +1,11 @@
 /**
  * Hello World
  *
- * Compile with: javac HelloWorld.java
- * Run with: java HelloWorld
+ * Compile with:
+ * $ javac -d bin HelloWorld.java
+ * 
+ * Run with:
+ * $ cd bin; java HelloWorld
  */
 
 public class HelloWorld {

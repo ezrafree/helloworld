@@ -1,7 +1,14 @@
 #!/usr/bin/env swift
 
-// To compile:
-// $ swiftc hello.swift -o hello
+/*
+	Hello World
+
+	To compile:
+	$ xcrun swiftc helloworld.swift -o bin/helloworld
+
+	To run:
+	$ ./bin/helloworld
+ */
 
 func greet(name: String) -> String {
     return "Hello, " + name + "."
