@@ -22,3 +22,4 @@ A collection of various "Hello World" and "Fizz Buzz" examples.
 
     $ brew cask install haskell-platform
     $ brew install ghc cabal-install
+    $ ghci --version
