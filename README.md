@@ -20,6 +20,7 @@ A collection of various "Hello World" and "Fizz Buzz" examples.
 
 ### Haskell
 
+    $ brew update
     $ brew cask install haskell-platform
     $ brew install ghc cabal-install
     $ ghci --version
