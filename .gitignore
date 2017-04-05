@@ -1,6 +1,8 @@
 # gitignore
 
 */bin/*
+haskell/*.hi
+haskell/*.o
 
 # Mac OS
 .DS_Store
@@ -19,4 +21,3 @@ ehthumbs.db
 .swp.*
 *.swp.*
 *.swp
-
