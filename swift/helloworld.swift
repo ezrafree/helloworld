@@ -3,10 +3,10 @@
 /*
 	Hello World
 
-	To compile:
+	Compile with:
 	$ xcrun swiftc helloworld.swift -o bin/helloworld
 
-	To run:
+	Run with:
 	$ ./bin/helloworld
  */
 

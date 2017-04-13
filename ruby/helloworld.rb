@@ -1,7 +1,7 @@
 =begin
 	Hello World
 
-	To run:
+	Run with:
 	$ ruby helloworld.rb
 =end
 

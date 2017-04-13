@@ -1,10 +1,10 @@
 {-
 	Hello World
 
-	To compile:
+	Compile with:
 	$ ghc -o bin/helloworld helloworld.hs
 
-	To run:
+	Run with:
 	$ ./bin/helloworld
 -}
 
