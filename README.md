@@ -13,6 +13,8 @@ A collection of various "Hello World" and "Fizz Buzz" examples.
 
 ## Mac OS X Install Instructions
 
+The following were the commands I ran to install Java and Haskell. Your mileage may vary.
+
 ### Java
 
     $ brew update
