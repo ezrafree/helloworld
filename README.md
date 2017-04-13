@@ -1,5 +1,7 @@
 # hello, world
 
+[![hello, world](https://raw.githubusercontent.com/ezrafree/helloworld/master/hello_world.jpg)](https://github.com/ezrafree/helloworld)
+
 A collection of various "Hello World" and "Fizz Buzz" examples.
 
 - C
