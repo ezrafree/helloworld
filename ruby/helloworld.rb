@@ -5,4 +5,4 @@
 	$ ruby helloworld.rb
 =end
 
-puts "hello, world"
+puts "hello, world\n"

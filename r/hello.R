@@ -1,3 +1,3 @@
 # To run: $ Rscript hello.R
 
-print("hello, world", quote = FALSE)
+print("hello, world\n", quote = FALSE)
