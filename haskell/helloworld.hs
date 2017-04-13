@@ -1,6 +1,6 @@
 {-
 	Hello World
-	
+
 	To compile:
 	$ ghc -o bin/helloworld helloworld.hs
 
@@ -8,4 +8,4 @@
 	$ ./bin/helloworld
 -}
 
-main = putStrLn "Hello, World!"
+main = putStrLn "hello, world"

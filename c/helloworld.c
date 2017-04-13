@@ -3,7 +3,7 @@
  *
  * Compile with:
  * $ c99 helloworld.c -o bin/helloworld
- * 
+ *
  * Run with:
  * $ ./bin/helloworld
  */
@@ -12,6 +12,6 @@
 
 int main()
 {
-	printf("Hello, World!\n");
+	printf("hello, world\n");
 	return 0;
 }
