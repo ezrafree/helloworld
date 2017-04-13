@@ -2,10 +2,10 @@
 	Hello World
 	
 	To compile:
-	$ ghc -o bin/hello hello.hs
+	$ ghc -o bin/helloworld helloworld.hs
 
 	To run:
-	./bin/hello
+	$ ./bin/helloworld
 -}
 
 main = putStrLn "Hello, World!"

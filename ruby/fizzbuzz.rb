@@ -1,13 +1,13 @@
 =begin
-    FizzBuzz
+	FizzBuzz
 
-    To run:
-    $ ruby fizzbuzz.rb
+	To run:
+	$ ruby fizzbuzz.rb
 =end
 
 (1..100).each{|i|
-    x = ''
-    x += 'Fizz' if i%3==0
-    x += 'Buzz' if i%5==0
-    puts(x.empty? ? i : x);
+	x = ''
+	x += 'Fizz' if i%3==0
+	x += 'Buzz' if i%5==0
+	puts(x.empty? ? i : x);
 }
