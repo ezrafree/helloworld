@@ -7,6 +7,7 @@ A collection of various "Hello World" and "Fizz Buzz" examples.
 - Ruby
 - Swift
 - Haskell
+- R
 
 ## Mac OS X Install Instructions
 
