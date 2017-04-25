@@ -1,8 +1,14 @@
 /**
  * Hello World
  *
- * Compile with:
+ * Run directly with:
  * $ go run helloworld.go
+ *
+ * Or, compile with:
+ * $ go build -o bin/helloworld helloworld.go
+ *
+ * And then you can run with:
+ * ./bin/helloworld
  */
 
 package main
