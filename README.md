@@ -5,11 +5,13 @@
 A collection of various "Hello World" and "Fizz Buzz" examples.
 
 - C
+- C++
+- Go
+- Haskell
 - Java
+- R
 - Ruby
 - Swift
-- Haskell
-- R
 
 ## Mac OS X Install Instructions
 
