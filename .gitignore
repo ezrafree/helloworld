@@ -3,6 +3,7 @@
 */bin/*
 haskell/*.hi
 haskell/*.o
+_offline
 
 # Mac OS
 .DS_Store
