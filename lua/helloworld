@@ -1,10 +1,10 @@
 #!/usr/bin/lua
 
---[=====[ 
+--[[
 	Hello World
 
 	To run:
-	$ lua helloworld
---]=====]
+	$ lua helloworld	
+--]]
  
 print ("hello, world")
