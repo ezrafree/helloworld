@@ -9,6 +9,8 @@ A collection of various "Hello World" and "Fizz Buzz" examples.
 - Go
 - Haskell
 - Java
+- Lua
+- Perl
 - R
 - Ruby
 - Swift
