@@ -32,3 +32,8 @@ The following were the commands I ran to install Java and Haskell. Your mileage 
     $ brew cask install haskell-platform
     $ brew install ghc cabal-install
     $ ghci --version
+
+### Lua
+
+    $ brew update
+    $ brew install lua
