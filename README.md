@@ -22,6 +22,16 @@ A collection of various "Hello World" and "Fizz Buzz" examples.
 
 The following commands were used to install Java and Haskell on Mac OS X Sierra using Homebrew. Your mileage may vary.
 
+### Clojure
+
+    $ brew update
+    $ brew install clojure
+
+### D
+
+    $ brew update
+    $ brew install dmd
+
 ### Haskell
 
     $ brew update
