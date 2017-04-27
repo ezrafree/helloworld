@@ -7,4 +7,4 @@
 #	./helloworld.sh
 #
 
-echo "hello world"
+echo "hello, world"
