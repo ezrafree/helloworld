@@ -7,6 +7,7 @@ A collection of various "Hello World" and "Fizz Buzz" examples.
 - Bash
 - C
 - C++
+- D
 - Go
 - Haskell
 - Java
@@ -20,7 +21,7 @@ A collection of various "Hello World" and "Fizz Buzz" examples.
 
 ## Mac OS X Install Instructions
 
-The following commands were used to install Java and Haskell on Mac OS X Sierra using Homebrew. Your mileage may vary.
+The following commands were used to implement the following languages on Mac OS X Sierra using Homebrew. Languages not included here were already included on Mac OS X Sierra.
 
 ### Clojure
 
