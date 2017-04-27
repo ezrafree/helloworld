@@ -4,6 +4,7 @@
 haskell/*.hi
 haskell/*.o
 _offline
+*.dump
 
 # Mac OS
 .DS_Store
