@@ -19,6 +19,7 @@ A collection of various "Hello World" and "Fizz Buzz" examples.
 - Lua
 - Objective-C
 - Perl
+- PHP
 - Python
 - R
 - Ruby
