@@ -1,7 +1,7 @@
 =begin
 	FizzBuzz
 
-	To run:
+	Run with:
 	$ ruby fizzbuzz.rb
 =end
 
