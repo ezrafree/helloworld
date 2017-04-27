@@ -33,6 +33,12 @@ The following commands were used to implement the following languages on Mac OS 
     $ brew update
     $ brew install dmd
 
+### Dart
+
+    $ brew update
+    $ brew tap dart-lang/dart
+    $ brew install dart
+
 ### Haskell
 
     $ brew update
