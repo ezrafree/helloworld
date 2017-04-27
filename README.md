@@ -15,6 +15,7 @@ A collection of various "Hello World" and "Fizz Buzz" examples.
 - Go
 - Haskell
 - Java
+- Lisp
 - Lua
 - Objective-C
 - Perl
@@ -70,6 +71,11 @@ The following commands were used to implement the following languages on Mac OS 
     $ echo 'eval "$(jenv init -)"' >> ~/.zshrc
     $ brew cask install java
     $ java -version
+
+### Lisp
+
+    $ brew update
+    $ brew install clisp
 
 ### Lua
 
