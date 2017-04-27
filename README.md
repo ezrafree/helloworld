@@ -60,6 +60,11 @@ The following commands were used to implement the following languages on Mac OS 
     $ brew update
     $ brew install gcc
 
+### Go
+
+    $ brew update
+    $ brew install go
+
 ### Groovy
 
     $ brew update
