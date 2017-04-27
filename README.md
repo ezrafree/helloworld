@@ -42,6 +42,11 @@ The following commands were used to install Java and Haskell on Mac OS X Sierra 
     $ brew update
     $ brew install lua
 
+### Rust
+
+    $ brew update
+    $ brew install rust
+
 ### Scala
 
     $ brew update
