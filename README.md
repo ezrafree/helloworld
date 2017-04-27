@@ -105,3 +105,9 @@ The following commands were used to implement the following languages on Mac OS 
 
     $ brew update
     $ brew install scala
+
+## Clean-up Script
+
+To remove the compiled binaries from each language's respective /bin directory, you can run the `cleanup.sh` script in the root directory:
+
+    ./cleanup.sh
