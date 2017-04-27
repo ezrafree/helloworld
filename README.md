@@ -5,29 +5,29 @@
 A collection of various "Hello World" and "Fizz Buzz" examples.
 
 | Language | Hello World | FizzBuzz |
-| ------------- | ------------- | ------------- |
-| Bash  | x |  |
-| C | x | x |
-| C# | x |  |
-| C++ | x |  |
-| D | x |  |
-| Dart | x |  |
-| Erlang | x |  |
-| Fortran | x |  |
-| Go | x |  |
-| Haskell | x | x |
-| Java | x | x |
-| Lisp | x |  |
-| Lua | x |  |
+| ----------- | - | - |
+| Bash        | x |  |
+| C           | x | x |
+| C#          | x |  |
+| C++         | x |  |
+| D           | x |  |
+| Dart        | x |  |
+| Erlang      | x |  |
+| Fortran     | x |  |
+| Go          | x |  |
+| Haskell     | x | x |
+| Java        | x | x |
+| Lisp        | x |  |
+| Lua         | x |  |
 | Objective-C | x |  |
-| Perl | x |  |
-| PHP | x | x |
-| Python | x |  |
-| R | x | x |
-| Ruby | x |  |
-| Rust | x |  |
-| Scala | x |  |
-| Swift | x | x |
+| Perl        | x |  |
+| PHP         | x | x |
+| Python      | x |  |
+| R           | x | x |
+| Ruby        | x |  |
+| Rust        | x |  |
+| Scala       | x |  |
+| Swift       | x | x |
 
 ## Mac OS X Install Instructions
 
