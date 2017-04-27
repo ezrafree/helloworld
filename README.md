@@ -4,6 +4,7 @@
 
 A collection of various "Hello World" and "Fizz Buzz" examples.
 
+- Bash
 - C
 - C++
 - Go
@@ -13,6 +14,7 @@ A collection of various "Hello World" and "Fizz Buzz" examples.
 - Perl
 - R
 - Ruby
+- Scala
 - Swift
 
 ## Mac OS X Install Instructions
@@ -39,3 +41,8 @@ The following commands were used to install Java and Haskell on Mac OS X Sierra 
 
     $ brew update
     $ brew install lua
+
+### Scala
+
+    $ brew update
+    $ brew install scala
