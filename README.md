@@ -11,6 +11,7 @@ A collection of various "Hello World" and "Fizz Buzz" examples.
 - D
 - Dart
 - Erlang
+- Fortran
 - Go
 - Haskell
 - Java
@@ -48,6 +49,11 @@ The following commands were used to implement the following languages on Mac OS 
 
     $ brew update
     $ brew install erlang
+
+### Fortran
+
+    $ brew update
+    $ brew install gcc
 
 ### Haskell
 
