@@ -6,13 +6,18 @@ A collection of various "Hello World" and "Fizz Buzz" examples.
 
 - Bash
 - C
+- C#
 - C++
 - D
+- Dart
+- Erlang
 - Go
 - Haskell
 - Java
 - Lua
+- Objective-C
 - Perl
+- Python
 - R
 - Ruby
 - Rust
@@ -38,6 +43,11 @@ The following commands were used to implement the following languages on Mac OS 
     $ brew update
     $ brew tap dart-lang/dart
     $ brew install dart
+
+### Erlang
+
+    $ brew update
+    $ brew install erlang
 
 ### Haskell
 
