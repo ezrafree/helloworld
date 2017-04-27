@@ -15,6 +15,7 @@ A collection of various "Hello World" and "Fizz Buzz" examples.
 | Erlang      | x |  |
 | Fortran     | x |  |
 | Go          | x |  |
+| Groovy      | x |  |
 | Haskell     | x | x |
 | Java        | x | x |
 | Lisp        | x |  |
@@ -58,6 +59,11 @@ The following commands were used to implement the following languages on Mac OS 
 
     $ brew update
     $ brew install gcc
+
+### Groovy
+
+    $ brew update
+    $ brew install groovy
 
 ### Haskell
 
