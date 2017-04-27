@@ -5,7 +5,7 @@
 A collection of various "Hello World" and "Fizz Buzz" examples.
 
 | Language | Hello World | FizzBuzz |
-| ------------- | ------------- |
+| ------------- | ------------- | ------------- |
 | Bash  | x |  |
 | C | x | x |
 | C# | x |  |
