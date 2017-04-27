@@ -4,7 +4,6 @@
 
 A collection of various "Hello World" and "Fizz Buzz" examples.
 
-| :---         |     :---:      |          ---: |
 | git status   | git status     | git status    |
 | git diff     | git diff       | git diff      |
 
