@@ -24,8 +24,8 @@ A collection of various "Hello World" and "Fizz Buzz" examples.
 | Perl        | x |  |
 | PHP         | x | x |
 | Python      | x |  |
-| R           | x | x |
-| Ruby        | x |  |
+| R           | x |  |
+| Ruby        | x | x |
 | Rust        | x |  |
 | Scala       | x |  |
 | Swift       | x | x |
