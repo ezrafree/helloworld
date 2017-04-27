@@ -4,28 +4,30 @@
 
 A collection of various "Hello World" and "Fizz Buzz" examples.
 
-- Bash
-- C
-- C#
-- C++
-- D
-- Dart
-- Erlang
-- Fortran
-- Go
-- Haskell
-- Java
-- Lisp
-- Lua
-- Objective-C
-- Perl
-- PHP
-- Python
-- R
-- Ruby
-- Rust
-- Scala
-- Swift
+| Language | Hello World | FizzBuzz |
+| ------------- | ------------- |
+| Bash  | x |  |
+| C | x | x |
+| C# | x |  |
+| C++ | x |  |
+| D | x |  |
+| Dart | x |  |
+| Erlang | x |  |
+| Fortran | x |  |
+| Go | x |  |
+| Haskell | x | x |
+| Java | x | x |
+| Lisp | x |  |
+| Lua | x |  |
+| Objective-C | x |  |
+| Perl | x |  |
+| PHP | x | x |
+| Python | x |  |
+| R | x | x |
+| Ruby | x |  |
+| Rust | x |  |
+| Scala | x |  |
+| Swift | x | x |
 
 ## Mac OS X Install Instructions
 
